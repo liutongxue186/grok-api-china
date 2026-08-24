@@ -42,10 +42,10 @@ print(resp.choices[0].message.content)
 |------|----------------------------------|------------------------|
 | 用途 | 在 grok.com 网页/App 用 | 接进自己的代码/产品 |
 | 计费 | 月付订阅 | 按 token 计费 |
-| 开通 | 可走人民币代充，见 [Grok 代充官网](https://www.grokvip.top) | 需开发者余额 |
+| 开通 | 可走人民币代充，见 [Grok 代充官网](https://grokvip.top) | 需开发者余额 |
 | 关系 | 权益写入你的 Grok 账号 | 独立账户，互不相通 |
 
-需要网页全功能（DeepSearch、PDF/PPT 生成、视频输入）→ 走 [Grok 代充官网](https://www.grokvip.top) 开会员；需要把 Grok 嵌进程序 → 看 [Grok API 国内调用详解](https://www.grokvip.top/guides/grok-api-china-2026/)。
+需要网页全功能（DeepSearch、PDF/PPT 生成、视频输入）→ 走 [Grok 代充官网](https://grokvip.top) 开会员；需要把 Grok 嵌进程序 → 看 [Grok API 国内调用详解](https://grokvip.top/guides/grok-api-china-2026/)。
 
 ## 选型建议
 
@@ -72,6 +72,6 @@ print(resp.choices[0].message.content)
 
 ---
 
-延伸阅读：[Grok 代充官网](https://www.grokvip.top) · [Grok API 国内调用](https://www.grokvip.top/guides/grok-api-china-2026/) · [Grok 国内充值总攻略](https://www.grokvip.top/guides/grok-recharge-china-guide-2026/) · [Grok 与 X Premium+ 区别](https://www.grokvip.top/guides/grok-vs-x-premium-2026/)
+延伸阅读：[Grok 代充官网](https://grokvip.top) · [Grok API 国内调用](https://grokvip.top/guides/grok-api-china-2026/) · [Grok 国内充值总攻略](https://grokvip.top/guides/grok-recharge-china-guide-2026/) · [Grok 与 X Premium+ 区别](https://grokvip.top/guides/grok-vs-x-premium-2026/)
 
 > ⚠️ **免责声明**：本文为个人经验整理，非 xAI 官方指南。API 中转、代充服务均处于相关平台服务条款（ToS）的灰区，存在账号/接口风控可能，使用前请自行评估风险。价格、模型名、网关地址随渠道波动，以实际文档为准。请遵守所在地法律法规。
